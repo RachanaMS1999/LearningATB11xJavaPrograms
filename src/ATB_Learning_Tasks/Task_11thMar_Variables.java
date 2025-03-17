@@ -1,11 +1,11 @@
-package ex_01_Java_Basic;
+package ATB_Learning_Tasks;
 
 public class Task_11thMar_Variables {
     public static void main(String[] args) {
         int n=9;
-
+        int i=1;
         System.out.printf("%d * 1 = %d%n",n,n);
-        System.out.printf("%d * 2 = %d%n",n,n*2);
+        System.out.printf("%d * %d = %d%n",n,n*2);
         System.out.printf("%d * 3 = %d%n",n,n*3);
         System.out.printf("%d * 4 = %d%n",n,n*4);
         System.out.printf("%d * 5 = %d%n",n,n*5);
