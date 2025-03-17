@@ -8,6 +8,10 @@ public class Lab007_Identifiers {
         int $=10;
         int _2=10;
         System.out.println(_2);
+        //int enum=10;-- Not allowed
+        int Enum=12;
+        System.out.println(Enum);
+
 
 
     }
